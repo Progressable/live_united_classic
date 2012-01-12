@@ -231,3 +231,156 @@ ul.links li {
  */
 .region-bottom /* Wrapper for any blocks placed in the page bottom region */ {
 }
+
+
+
+.front .with-navigation #content, .front .with-navigation .region-sidebar-first, .front .with-navigation .region-sidebar-second {
+margin-top: 175px;
+}
+
+
+.front .region-left .section {
+background: transparent url(/sites/all/themes/live_united_classic/images/front_story_back.gif) no-repeat top left;
+padding: 15px;
+height: 350px;
+}
+
+.front .region-content
+{padding-top: 5px;}
+
+
+.front .sidebar-first #content {
+width: 640px;
+margin-left: 310px;
+margin-right: -1065px;
+}
+
+.front .region-sidebar-first .section {
+width: 280px;
+}
+
+.front .region-sidebar-first .section {
+background: transparent url(/sites/all/themes/live_united_classic/images/front_story_back.gif) no-repeat top left;
+padding: 15px;
+height: 350px;
+}
+
+.front .region-sidebar-first
+{
+left: -5px;
+position: relative;
+}
+
+.front .region-sidebar-first .views-row
+{
+padding: 8px;
+}
+
+.front #main .tabs
+{
+display: none;
+}
+
+
+.front .region-sidebar-first .view-frontpage .view-content
+{
+height: 295px;
+overflow: hidden;
+}
+
+
+.front #slide-content a:link, #slide-content h2 a:link, #slide-content h2
+{
+color: white;
+}
+
+
+.bottom-menu h4 {
+font-weight: bold;
+}
+
+#content {
+padding-left: 0px;
+}
+
+.field-type-taxonomy-term-reference {
+    padding-top: 20px;
+}
+
+#main
+{padding-bottom: 10px;}
+
+.field-name-field-post-image img {
+float: left;
+padding: 5px;
+}
+
+
+.filter-wrapper
+{
+display: block;
+}
+
+
+
+
+#main .view-all-activity .view-content h2 a, #footer .view-content .node-teaser h2 a {
+margin: 10px 0 5px 0;
+font-weight: bold;
+color: #2F3196;
+line-height: 35px;
+margin: 0 0 0 0;
+padding: 0.4em 0em 0em 0em;
+position: relative;
+padding-top: ;
+}
+
+.view .node-teaser {
+padding-top: 20px;
+}
+
+.not-front #main #content .views-row {
+padding-bottom: 15px;
+}
+
+.not-front #main #content .views-row-odd {
+background-color: #F0F0F0;
+}
+
+.node-blog .field-name-field-image img, .node-blog .field-name-field-image {
+float: right;
+margin: 4px;
+Position: relative;
+top: -30px;
+}
+
+.field-name-field-podcast-image
+{
+float: left;
+}
+
+.field-name-field-mp3
+{
+position: relative;
+left: 180px;
+top:90px;
+}
+
+
+.page-blog .node-teaser {
+padding-top: 20px;
+}
+
+.node-blog .field-name-field-image  img, .node-blog .field-name-field-image {
+float: right;
+margin: 4px;
+Position: relative;
+top: -30px;
+}
+
+
+
+.front .more-link {
+padding-top: 10px;
+text-align: right;
+}
