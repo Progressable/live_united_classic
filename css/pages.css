@@ -384,3 +384,10 @@ top: -30px;
 padding-top: 10px;
 text-align: right;
 }
+
+
+.front .sidebar-first #content {
+    margin-left: 310px;
+    margin-right: -570px;
+    width: 260px;
+}
